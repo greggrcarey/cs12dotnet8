@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\cs12dotnet8\\code\\Chapter05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCCDB38A-A1D1-47A7-BBE6-56537A80BF7C}|PeopleApp\\PeopleApp.csproj|d:\\cs12dotnet8\\code\\chapter05\\peopleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCCDB38A-A1D1-47A7-BBE6-56537A80BF7C}|PeopleApp\\PeopleApp.csproj|solutionrelative:peopleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC4A7BD-8C96-4496-953E-7FE028781E0E}|PacktLibraryModern\\PacktLibraryModern.csproj|d:\\cs12dotnet8\\code\\chapter05\\packtlibrarymodern\\records.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC4A7BD-8C96-4496-953E-7FE028781E0E}|PacktLibraryModern\\PacktLibraryModern.csproj|solutionrelative:packtlibrarymodern\\records.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2321AA28-774D-4FC2-BA22-2AD30635785D}|PacktLibraryNetStandard2\\PacktLibraryNetStandard2.csproj|d:\\cs12dotnet8\\code\\chapter05\\packtlibrarynetstandard2\\personautogen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2321AA28-774D-4FC2-BA22-2AD30635785D}|PacktLibraryNetStandard2\\PacktLibraryNetStandard2.csproj|solutionrelative:packtlibrarynetstandard2\\personautogen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2321AA28-774D-4FC2-BA22-2AD30635785D}|PacktLibraryNetStandard2\\PacktLibraryNetStandard2.csproj|d:\\cs12dotnet8\\code\\chapter05\\packtlibrarynetstandard2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2321AA28-774D-4FC2-BA22-2AD30635785D}|PacktLibraryNetStandard2\\PacktLibraryNetStandard2.csproj|solutionrelative:packtlibrarynetstandard2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2321AA28-774D-4FC2-BA22-2AD30635785D}|PacktLibraryNetStandard2\\PacktLibraryNetStandard2.csproj|d:\\cs12dotnet8\\code\\chapter05\\packtlibrarynetstandard2\\flightpatterns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2321AA28-774D-4FC2-BA22-2AD30635785D}|PacktLibraryNetStandard2\\PacktLibraryNetStandard2.csproj|solutionrelative:packtlibrarynetstandard2\\flightpatterns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC4A7BD-8C96-4496-953E-7FE028781E0E}|PacktLibraryModern\\PacktLibraryModern.csproj|d:\\cs12dotnet8\\code\\chapter05\\packtlibrarymodern\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC4A7BD-8C96-4496-953E-7FE028781E0E}|PacktLibraryModern\\PacktLibraryModern.csproj|solutionrelative:packtlibrarymodern\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Records.cs",
+              "DocumentMoniker": "D:\\cs12dotnet8\\code\\Chapter05\\PacktLibraryModern\\Records.cs",
+              "RelativeDocumentMoniker": "PacktLibraryModern\\Records.cs",
+              "ToolTip": "D:\\cs12dotnet8\\code\\Chapter05\\PacktLibraryModern\\Records.cs",
+              "RelativeToolTip": "PacktLibraryModern\\Records.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T15:42:37.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonAutoGen.cs",
+              "DocumentMoniker": "D:\\cs12dotnet8\\code\\Chapter05\\PacktLibraryNetStandard2\\PersonAutoGen.cs",
+              "RelativeDocumentMoniker": "PacktLibraryNetStandard2\\PersonAutoGen.cs",
+              "ToolTip": "D:\\cs12dotnet8\\code\\Chapter05\\PacktLibraryNetStandard2\\PersonAutoGen.cs",
+              "RelativeToolTip": "PacktLibraryNetStandard2\\PersonAutoGen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T15:38:40.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FlightPatterns.cs",
+              "DocumentMoniker": "D:\\cs12dotnet8\\code\\Chapter05\\PacktLibraryNetStandard2\\FlightPatterns.cs",
+              "RelativeDocumentMoniker": "PacktLibraryNetStandard2\\FlightPatterns.cs",
+              "ToolTip": "D:\\cs12dotnet8\\code\\Chapter05\\PacktLibraryNetStandard2\\FlightPatterns.cs",
+              "RelativeToolTip": "PacktLibraryNetStandard2\\FlightPatterns.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T15:42:14.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\cs12dotnet8\\code\\Chapter05\\PacktLibraryNetStandard2\\Person.cs",
+              "RelativeDocumentMoniker": "PacktLibraryNetStandard2\\Person.cs",
+              "ToolTip": "D:\\cs12dotnet8\\code\\Chapter05\\PacktLibraryNetStandard2\\Person.cs",
+              "RelativeToolTip": "PacktLibraryNetStandard2\\Person.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAADwvw4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T14:43:20.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\cs12dotnet8\\code\\Chapter05\\PacktLibraryModern\\Book.cs",
+              "RelativeDocumentMoniker": "PacktLibraryModern\\Book.cs",
+              "ToolTip": "D:\\cs12dotnet8\\code\\Chapter05\\PacktLibraryModern\\Book.cs",
+              "RelativeToolTip": "PacktLibraryModern\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T16:08:23.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\cs12dotnet8\\code\\Chapter05\\PeopleApp\\Program.cs",
+              "RelativeDocumentMoniker": "PeopleApp\\Program.cs",
+              "ToolTip": "D:\\cs12dotnet8\\code\\Chapter05\\PeopleApp\\Program.cs",
+              "RelativeToolTip": "PeopleApp\\Program.cs",
+              "ViewState": "AQIAAIwBAAAAAAAAAAAYwI8BAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T16:08:04.725Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\cs12dotnet8\code\Chapter07\SourceLinks\bin\Debug\net8.0\SourceLinks.exe
+D:\cs12dotnet8\code\Chapter07\SourceLinks\bin\Debug\net8.0\SourceLinks.deps.json
+D:\cs12dotnet8\code\Chapter07\SourceLinks\bin\Debug\net8.0\SourceLinks.runtimeconfig.json
+D:\cs12dotnet8\code\Chapter07\SourceLinks\bin\Debug\net8.0\SourceLinks.dll
+D:\cs12dotnet8\code\Chapter07\SourceLinks\bin\Debug\net8.0\SourceLinks.pdb
+D:\cs12dotnet8\code\Chapter07\SourceLinks\obj\Debug\net8.0\SourceLinks.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs12dotnet8\code\Chapter07\SourceLinks\obj\Debug\net8.0\SourceLinks.AssemblyInfoInputs.cache
+D:\cs12dotnet8\code\Chapter07\SourceLinks\obj\Debug\net8.0\SourceLinks.AssemblyInfo.cs
+D:\cs12dotnet8\code\Chapter07\SourceLinks\obj\Debug\net8.0\SourceLinks.csproj.CoreCompileInputs.cache
+D:\cs12dotnet8\code\Chapter07\SourceLinks\obj\Debug\net8.0\SourceLinks.sourcelink.json
+D:\cs12dotnet8\code\Chapter07\SourceLinks\obj\Debug\net8.0\SourceLinks.dll
+D:\cs12dotnet8\code\Chapter07\SourceLinks\obj\Debug\net8.0\refint\SourceLinks.dll
+D:\cs12dotnet8\code\Chapter07\SourceLinks\obj\Debug\net8.0\SourceLinks.pdb
+D:\cs12dotnet8\code\Chapter07\SourceLinks\obj\Debug\net8.0\SourceLinks.genruntimeconfig.cache
+D:\cs12dotnet8\code\Chapter07\SourceLinks\obj\Debug\net8.0\ref\SourceLinks.dll

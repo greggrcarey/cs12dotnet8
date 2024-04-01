@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "FynFVjN+qqBX0wkkI/qjFshfoac3KAQgzYx3X+q9Qp+QmCn++Y5j8L/CHjf8vuqlNwDRMK+p3QIqOnNxpyDHNw==",
+  "success": true,
+  "projectFilePath": "D:\\cs12dotnet8\\my_code\\Chapter07\\DotNetEverywhere\\DotNetEverywhere.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gregg\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\8.0.3\\microsoft.netcore.app.runtime.linux-x64.8.0.3.nupkg.sha512",
+    "C:\\Users\\gregg\\.nuget\\packages\\microsoft.netcore.app.host.osx-x64\\8.0.3\\microsoft.netcore.app.host.osx-x64.8.0.3.nupkg.sha512",
+    "C:\\Users\\gregg\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-arm64\\8.0.3\\microsoft.netcore.app.runtime.linux-arm64.8.0.3.nupkg.sha512",
+    "C:\\Users\\gregg\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\8.0.3\\microsoft.netcore.app.host.linux-x64.8.0.3.nupkg.sha512",
+    "C:\\Users\\gregg\\.nuget\\packages\\microsoft.netcore.app.runtime.osx-x64\\8.0.3\\microsoft.netcore.app.runtime.osx-x64.8.0.3.nupkg.sha512",
+    "C:\\Users\\gregg\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-arm64\\8.0.3\\microsoft.aspnetcore.app.runtime.linux-arm64.8.0.3.nupkg.sha512",
+    "C:\\Users\\gregg\\.nuget\\packages\\microsoft.netcore.app.host.linux-arm64\\8.0.3\\microsoft.netcore.app.host.linux-arm64.8.0.3.nupkg.sha512",
+    "C:\\Users\\gregg\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.osx-x64\\8.0.3\\microsoft.aspnetcore.app.runtime.osx-x64.8.0.3.nupkg.sha512",
+    "C:\\Users\\gregg\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\8.0.3\\microsoft.aspnetcore.app.runtime.linux-x64.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Packt.CSdotnet.SharedLibrary</id>
+    <version>8.0.0</version>
+    <title>C# 12 and .NET 8 Shared Library</title>
+    <authors>Mark J Price</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="expression">MS-PL</license>
+    <licenseUrl>https://licenses.nuget.org/MS-PL</licenseUrl>
+    <icon>packt-csdotnet-sharedlibrary.png</icon>
+    <readme>readme.md</readme>
+    <projectUrl>https://github.com/markjprice/cs12dotnet8</projectUrl>
+    <description>Three extension methods to validate a string value.</description>
+    <releaseNotes>Example shared library packaged for NuGet.</releaseNotes>
+    <copyright>Copyright © 2016-2023 Packt Publishing Limited</copyright>
+    <tags>string extensions packt csharp dotnet</tags>
+    <repository type="git" commit="1922fdb1b362c315cd3c0871b1f72332003dc103" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\cs12dotnet8\code\Chapter07\SharedLibrary\bin\Debug\netstandard2.0\SharedLibrary.dll" target="lib\netstandard2.0\SharedLibrary.dll" />
+    <file src="D:\cs12dotnet8\code\Chapter07\SharedLibrary\packt-csdotnet-sharedlibrary.png" target="\packt-csdotnet-sharedlibrary.png" />
+    <file src="D:\cs12dotnet8\code\Chapter07\SharedLibrary\readme.md" target="\readme.md" />
+  </files>
+</package>

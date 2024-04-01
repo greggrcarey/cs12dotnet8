@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = PacktLinqExtensions
+build_property.ProjectDir = D:\cs12dotnet8\code\Chapter11\PacktLinqExtensions\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

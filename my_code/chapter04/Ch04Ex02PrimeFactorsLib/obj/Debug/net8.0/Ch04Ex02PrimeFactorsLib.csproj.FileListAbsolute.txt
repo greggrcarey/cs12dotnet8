@@ -1,0 +1,12 @@
+D:\cs12dotnet8\my_code\chapter04\Ch04Ex02PrimeFactorsLib\bin\Debug\net8.0\Ch04Ex02PrimeFactorsLib.deps.json
+D:\cs12dotnet8\my_code\chapter04\Ch04Ex02PrimeFactorsLib\bin\Debug\net8.0\Ch04Ex02PrimeFactorsLib.dll
+D:\cs12dotnet8\my_code\chapter04\Ch04Ex02PrimeFactorsLib\bin\Debug\net8.0\Ch04Ex02PrimeFactorsLib.pdb
+D:\cs12dotnet8\my_code\chapter04\Ch04Ex02PrimeFactorsLib\obj\Debug\net8.0\Ch04Ex02PrimeFactorsLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs12dotnet8\my_code\chapter04\Ch04Ex02PrimeFactorsLib\obj\Debug\net8.0\Ch04Ex02PrimeFactorsLib.AssemblyInfoInputs.cache
+D:\cs12dotnet8\my_code\chapter04\Ch04Ex02PrimeFactorsLib\obj\Debug\net8.0\Ch04Ex02PrimeFactorsLib.AssemblyInfo.cs
+D:\cs12dotnet8\my_code\chapter04\Ch04Ex02PrimeFactorsLib\obj\Debug\net8.0\Ch04Ex02PrimeFactorsLib.csproj.CoreCompileInputs.cache
+D:\cs12dotnet8\my_code\chapter04\Ch04Ex02PrimeFactorsLib\obj\Debug\net8.0\Ch04Ex02PrimeFactorsLib.sourcelink.json
+D:\cs12dotnet8\my_code\chapter04\Ch04Ex02PrimeFactorsLib\obj\Debug\net8.0\Ch04Ex02PrimeFactorsLib.dll
+D:\cs12dotnet8\my_code\chapter04\Ch04Ex02PrimeFactorsLib\obj\Debug\net8.0\refint\Ch04Ex02PrimeFactorsLib.dll
+D:\cs12dotnet8\my_code\chapter04\Ch04Ex02PrimeFactorsLib\obj\Debug\net8.0\Ch04Ex02PrimeFactorsLib.pdb
+D:\cs12dotnet8\my_code\chapter04\Ch04Ex02PrimeFactorsLib\obj\Debug\net8.0\ref\Ch04Ex02PrimeFactorsLib.dll

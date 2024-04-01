@@ -1,0 +1,11 @@
+D:\cs12dotnet8\my_code\Chapter07\SharedLibrary\bin\Debug\netstandard2.0\SharedLibrary.deps.json
+D:\cs12dotnet8\my_code\Chapter07\SharedLibrary\bin\Debug\netstandard2.0\SharedLibrary.dll
+D:\cs12dotnet8\my_code\Chapter07\SharedLibrary\bin\Debug\netstandard2.0\SharedLibrary.pdb
+D:\cs12dotnet8\my_code\Chapter07\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.csproj.AssemblyReference.cache
+D:\cs12dotnet8\my_code\Chapter07\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs12dotnet8\my_code\Chapter07\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.AssemblyInfoInputs.cache
+D:\cs12dotnet8\my_code\Chapter07\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.AssemblyInfo.cs
+D:\cs12dotnet8\my_code\Chapter07\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.csproj.CoreCompileInputs.cache
+D:\cs12dotnet8\my_code\Chapter07\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.sourcelink.json
+D:\cs12dotnet8\my_code\Chapter07\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.dll
+D:\cs12dotnet8\my_code\Chapter07\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.pdb

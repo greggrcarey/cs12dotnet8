@@ -1,0 +1,12 @@
+D:\cs12dotnet8\code\Chapter07\ControlSDK\bin\Debug\net6.0\ControlSDK.deps.json
+D:\cs12dotnet8\code\Chapter07\ControlSDK\bin\Debug\net6.0\ControlSDK.dll
+D:\cs12dotnet8\code\Chapter07\ControlSDK\bin\Debug\net6.0\ControlSDK.pdb
+D:\cs12dotnet8\code\Chapter07\ControlSDK\obj\Debug\net6.0\ControlSDK.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs12dotnet8\code\Chapter07\ControlSDK\obj\Debug\net6.0\ControlSDK.AssemblyInfoInputs.cache
+D:\cs12dotnet8\code\Chapter07\ControlSDK\obj\Debug\net6.0\ControlSDK.AssemblyInfo.cs
+D:\cs12dotnet8\code\Chapter07\ControlSDK\obj\Debug\net6.0\ControlSDK.csproj.CoreCompileInputs.cache
+D:\cs12dotnet8\code\Chapter07\ControlSDK\obj\Debug\net6.0\ControlSDK.sourcelink.json
+D:\cs12dotnet8\code\Chapter07\ControlSDK\obj\Debug\net6.0\ControlSDK.dll
+D:\cs12dotnet8\code\Chapter07\ControlSDK\obj\Debug\net6.0\refint\ControlSDK.dll
+D:\cs12dotnet8\code\Chapter07\ControlSDK\obj\Debug\net6.0\ControlSDK.pdb
+D:\cs12dotnet8\code\Chapter07\ControlSDK\obj\Debug\net6.0\ref\ControlSDK.dll

@@ -1,0 +1,15 @@
+D:\cs12dotnet8\code\Chapter03\Ch03Ex04FizzBuzz\bin\Debug\net8.0\Ch03Ex04FizzBuzz.exe
+D:\cs12dotnet8\code\Chapter03\Ch03Ex04FizzBuzz\bin\Debug\net8.0\Ch03Ex04FizzBuzz.deps.json
+D:\cs12dotnet8\code\Chapter03\Ch03Ex04FizzBuzz\bin\Debug\net8.0\Ch03Ex04FizzBuzz.runtimeconfig.json
+D:\cs12dotnet8\code\Chapter03\Ch03Ex04FizzBuzz\bin\Debug\net8.0\Ch03Ex04FizzBuzz.dll
+D:\cs12dotnet8\code\Chapter03\Ch03Ex04FizzBuzz\bin\Debug\net8.0\Ch03Ex04FizzBuzz.pdb
+D:\cs12dotnet8\code\Chapter03\Ch03Ex04FizzBuzz\obj\Debug\net8.0\Ch03Ex04FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs12dotnet8\code\Chapter03\Ch03Ex04FizzBuzz\obj\Debug\net8.0\Ch03Ex04FizzBuzz.AssemblyInfoInputs.cache
+D:\cs12dotnet8\code\Chapter03\Ch03Ex04FizzBuzz\obj\Debug\net8.0\Ch03Ex04FizzBuzz.AssemblyInfo.cs
+D:\cs12dotnet8\code\Chapter03\Ch03Ex04FizzBuzz\obj\Debug\net8.0\Ch03Ex04FizzBuzz.csproj.CoreCompileInputs.cache
+D:\cs12dotnet8\code\Chapter03\Ch03Ex04FizzBuzz\obj\Debug\net8.0\Ch03Ex04FizzBuzz.sourcelink.json
+D:\cs12dotnet8\code\Chapter03\Ch03Ex04FizzBuzz\obj\Debug\net8.0\Ch03Ex04FizzBuzz.dll
+D:\cs12dotnet8\code\Chapter03\Ch03Ex04FizzBuzz\obj\Debug\net8.0\refint\Ch03Ex04FizzBuzz.dll
+D:\cs12dotnet8\code\Chapter03\Ch03Ex04FizzBuzz\obj\Debug\net8.0\Ch03Ex04FizzBuzz.pdb
+D:\cs12dotnet8\code\Chapter03\Ch03Ex04FizzBuzz\obj\Debug\net8.0\Ch03Ex04FizzBuzz.genruntimeconfig.cache
+D:\cs12dotnet8\code\Chapter03\Ch03Ex04FizzBuzz\obj\Debug\net8.0\ref\Ch03Ex04FizzBuzz.dll

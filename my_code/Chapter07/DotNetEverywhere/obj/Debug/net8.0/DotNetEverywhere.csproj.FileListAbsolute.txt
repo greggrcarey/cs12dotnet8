@@ -1,0 +1,15 @@
+D:\cs12dotnet8\my_code\Chapter07\DotNetEverywhere\bin\Debug\net8.0\DotNetEverywhere.exe
+D:\cs12dotnet8\my_code\Chapter07\DotNetEverywhere\bin\Debug\net8.0\DotNetEverywhere.deps.json
+D:\cs12dotnet8\my_code\Chapter07\DotNetEverywhere\bin\Debug\net8.0\DotNetEverywhere.runtimeconfig.json
+D:\cs12dotnet8\my_code\Chapter07\DotNetEverywhere\bin\Debug\net8.0\DotNetEverywhere.dll
+D:\cs12dotnet8\my_code\Chapter07\DotNetEverywhere\bin\Debug\net8.0\DotNetEverywhere.pdb
+D:\cs12dotnet8\my_code\Chapter07\DotNetEverywhere\obj\Debug\net8.0\DotNetEverywhere.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs12dotnet8\my_code\Chapter07\DotNetEverywhere\obj\Debug\net8.0\DotNetEverywhere.AssemblyInfoInputs.cache
+D:\cs12dotnet8\my_code\Chapter07\DotNetEverywhere\obj\Debug\net8.0\DotNetEverywhere.AssemblyInfo.cs
+D:\cs12dotnet8\my_code\Chapter07\DotNetEverywhere\obj\Debug\net8.0\DotNetEverywhere.csproj.CoreCompileInputs.cache
+D:\cs12dotnet8\my_code\Chapter07\DotNetEverywhere\obj\Debug\net8.0\DotNetEverywhere.sourcelink.json
+D:\cs12dotnet8\my_code\Chapter07\DotNetEverywhere\obj\Debug\net8.0\DotNetEverywhere.dll
+D:\cs12dotnet8\my_code\Chapter07\DotNetEverywhere\obj\Debug\net8.0\refint\DotNetEverywhere.dll
+D:\cs12dotnet8\my_code\Chapter07\DotNetEverywhere\obj\Debug\net8.0\DotNetEverywhere.pdb
+D:\cs12dotnet8\my_code\Chapter07\DotNetEverywhere\obj\Debug\net8.0\DotNetEverywhere.genruntimeconfig.cache
+D:\cs12dotnet8\my_code\Chapter07\DotNetEverywhere\obj\Debug\net8.0\ref\DotNetEverywhere.dll

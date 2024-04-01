@@ -1,0 +1,15 @@
+D:\cs12dotnet8\my_code\Chapter07\AssembliesAndNamespaces\bin\Debug\net8.0\AssembliesAndNamespaces.exe
+D:\cs12dotnet8\my_code\Chapter07\AssembliesAndNamespaces\bin\Debug\net8.0\AssembliesAndNamespaces.deps.json
+D:\cs12dotnet8\my_code\Chapter07\AssembliesAndNamespaces\bin\Debug\net8.0\AssembliesAndNamespaces.runtimeconfig.json
+D:\cs12dotnet8\my_code\Chapter07\AssembliesAndNamespaces\bin\Debug\net8.0\AssembliesAndNamespaces.dll
+D:\cs12dotnet8\my_code\Chapter07\AssembliesAndNamespaces\bin\Debug\net8.0\AssembliesAndNamespaces.pdb
+D:\cs12dotnet8\my_code\Chapter07\AssembliesAndNamespaces\obj\Debug\net8.0\AssembliesAndNamespaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs12dotnet8\my_code\Chapter07\AssembliesAndNamespaces\obj\Debug\net8.0\AssembliesAndNamespaces.AssemblyInfoInputs.cache
+D:\cs12dotnet8\my_code\Chapter07\AssembliesAndNamespaces\obj\Debug\net8.0\AssembliesAndNamespaces.AssemblyInfo.cs
+D:\cs12dotnet8\my_code\Chapter07\AssembliesAndNamespaces\obj\Debug\net8.0\AssembliesAndNamespaces.csproj.CoreCompileInputs.cache
+D:\cs12dotnet8\my_code\Chapter07\AssembliesAndNamespaces\obj\Debug\net8.0\AssembliesAndNamespaces.sourcelink.json
+D:\cs12dotnet8\my_code\Chapter07\AssembliesAndNamespaces\obj\Debug\net8.0\AssembliesAndNamespaces.dll
+D:\cs12dotnet8\my_code\Chapter07\AssembliesAndNamespaces\obj\Debug\net8.0\refint\AssembliesAndNamespaces.dll
+D:\cs12dotnet8\my_code\Chapter07\AssembliesAndNamespaces\obj\Debug\net8.0\AssembliesAndNamespaces.pdb
+D:\cs12dotnet8\my_code\Chapter07\AssembliesAndNamespaces\obj\Debug\net8.0\AssembliesAndNamespaces.genruntimeconfig.cache
+D:\cs12dotnet8\my_code\Chapter07\AssembliesAndNamespaces\obj\Debug\net8.0\ref\AssembliesAndNamespaces.dll

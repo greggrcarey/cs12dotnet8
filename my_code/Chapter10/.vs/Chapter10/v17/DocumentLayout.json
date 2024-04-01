@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\cs12dotnet8\\my_code\\Chapter10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47D67F21-6B59-4818-B535-EC734088C85C}|WorkingWithEFCore\\WorkingWithEFCore.csproj|d:\\cs12dotnet8\\my_code\\chapter10\\workingwithefcore\\programqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D67F21-6B59-4818-B535-EC734088C85C}|WorkingWithEFCore\\WorkingWithEFCore.csproj|solutionrelative:workingwithefcore\\programqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D67F21-6B59-4818-B535-EC734088C85C}|WorkingWithEFCore\\WorkingWithEFCore.csproj|d:\\cs12dotnet8\\my_code\\chapter10\\workingwithefcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D67F21-6B59-4818-B535-EC734088C85C}|WorkingWithEFCore\\WorkingWithEFCore.csproj|solutionrelative:workingwithefcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D67F21-6B59-4818-B535-EC734088C85C}|WorkingWithEFCore\\WorkingWithEFCore.csproj|d:\\cs12dotnet8\\my_code\\chapter10\\workingwithefcore\\northwinddb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D67F21-6B59-4818-B535-EC734088C85C}|WorkingWithEFCore\\WorkingWithEFCore.csproj|solutionrelative:workingwithefcore\\northwinddb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D67F21-6B59-4818-B535-EC734088C85C}|WorkingWithEFCore\\WorkingWithEFCore.csproj|d:\\cs12dotnet8\\my_code\\chapter10\\workingwithefcore\\workingwithefcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{47D67F21-6B59-4818-B535-EC734088C85C}|WorkingWithEFCore\\WorkingWithEFCore.csproj|solutionrelative:workingwithefcore\\workingwithefcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D67F21-6B59-4818-B535-EC734088C85C}|WorkingWithEFCore\\WorkingWithEFCore.csproj|d:\\cs12dotnet8\\my_code\\chapter10\\workingwithefcore\\program.helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D67F21-6B59-4818-B535-EC734088C85C}|WorkingWithEFCore\\WorkingWithEFCore.csproj|solutionrelative:workingwithefcore\\program.helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 233,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WorkingWithEFCore",
+              "DocumentMoniker": "D:\\cs12dotnet8\\my_code\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore.csproj",
+              "RelativeDocumentMoniker": "WorkingWithEFCore\\WorkingWithEFCore.csproj",
+              "ToolTip": "D:\\cs12dotnet8\\my_code\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore.csproj",
+              "RelativeToolTip": "WorkingWithEFCore\\WorkingWithEFCore.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-01T18:31:28.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NorthwindDb.cs",
+              "DocumentMoniker": "D:\\cs12dotnet8\\my_code\\Chapter10\\WorkingWithEFCore\\NorthwindDb.cs",
+              "RelativeDocumentMoniker": "WorkingWithEFCore\\NorthwindDb.cs",
+              "ToolTip": "D:\\cs12dotnet8\\my_code\\Chapter10\\WorkingWithEFCore\\NorthwindDb.cs",
+              "RelativeToolTip": "WorkingWithEFCore\\NorthwindDb.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA4wBsAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T14:18:48.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProgramQueries.cs",
+              "DocumentMoniker": "D:\\cs12dotnet8\\my_code\\Chapter10\\WorkingWithEFCore\\ProgramQueries.cs",
+              "RelativeDocumentMoniker": "WorkingWithEFCore\\ProgramQueries.cs",
+              "ToolTip": "D:\\cs12dotnet8\\my_code\\Chapter10\\WorkingWithEFCore\\ProgramQueries.cs",
+              "RelativeToolTip": "WorkingWithEFCore\\ProgramQueries.cs",
+              "ViewState": "AQIAAPUAAAAAAAAAAAAMwAgBAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T15:24:53.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.Helpers.cs",
+              "DocumentMoniker": "D:\\cs12dotnet8\\my_code\\Chapter10\\WorkingWithEFCore\\Program.Helpers.cs",
+              "RelativeDocumentMoniker": "WorkingWithEFCore\\Program.Helpers.cs",
+              "ToolTip": "D:\\cs12dotnet8\\my_code\\Chapter10\\WorkingWithEFCore\\Program.Helpers.cs",
+              "RelativeToolTip": "WorkingWithEFCore\\Program.Helpers.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T14:58:36.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\cs12dotnet8\\my_code\\Chapter10\\WorkingWithEFCore\\Program.cs",
+              "RelativeDocumentMoniker": "WorkingWithEFCore\\Program.cs",
+              "ToolTip": "D:\\cs12dotnet8\\my_code\\Chapter10\\WorkingWithEFCore\\Program.cs",
+              "RelativeToolTip": "WorkingWithEFCore\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:16:35.741Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

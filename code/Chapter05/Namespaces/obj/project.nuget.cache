@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "HctgtYXc6wVN3d4MT+ObIPwgLk14RbX0KVOOO/1RqIpXy17212wUUfnmaQbS/RbXXTk7jn4Dq8tsW5hnBXu8vQ==",
+  "success": true,
+  "projectFilePath": "D:\\cs12dotnet8\\code\\Chapter05\\Namespaces\\Namespaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gregg\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\gregg\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\gregg\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\gregg\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,2 @@
+D:\cs12dotnet8\my_code\Chapter07\DotNetEverywhere\bin\Release\net8.0\win-x64\publish\DotNetEverywhere.pdb
+D:\cs12dotnet8\my_code\Chapter07\DotNetEverywhere\bin\Release\net8.0\win-x64\publish\DotNetEverywhere.exe

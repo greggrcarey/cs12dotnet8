@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1OQ5ZcXbgA/9esc5jsrPd+AmHUB+aBYelIXY5Ty9CauXaq/4Qtpuvp6Idd+y2ZBN8FOD0NFbOu5ydc1pOHKiSA==",
+  "success": true,
+  "projectFilePath": "D:\\cs12dotnet8\\code\\Chapter07\\AssembliesAndNamespaces\\AssembliesAndNamespaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gregg\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\gregg\\.nuget\\packages\\packt.csdotnet.sharedlibrary\\8.0.0\\packt.csdotnet.sharedlibrary.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

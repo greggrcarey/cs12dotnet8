@@ -1,0 +1,15 @@
+D:\cs12dotnet8\code\Chapter07\AotConsole\bin\Debug\net8.0\AotConsole.exe
+D:\cs12dotnet8\code\Chapter07\AotConsole\bin\Debug\net8.0\AotConsole.deps.json
+D:\cs12dotnet8\code\Chapter07\AotConsole\bin\Debug\net8.0\AotConsole.runtimeconfig.json
+D:\cs12dotnet8\code\Chapter07\AotConsole\bin\Debug\net8.0\AotConsole.dll
+D:\cs12dotnet8\code\Chapter07\AotConsole\bin\Debug\net8.0\AotConsole.pdb
+D:\cs12dotnet8\code\Chapter07\AotConsole\obj\Debug\net8.0\AotConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs12dotnet8\code\Chapter07\AotConsole\obj\Debug\net8.0\AotConsole.AssemblyInfoInputs.cache
+D:\cs12dotnet8\code\Chapter07\AotConsole\obj\Debug\net8.0\AotConsole.AssemblyInfo.cs
+D:\cs12dotnet8\code\Chapter07\AotConsole\obj\Debug\net8.0\AotConsole.csproj.CoreCompileInputs.cache
+D:\cs12dotnet8\code\Chapter07\AotConsole\obj\Debug\net8.0\AotConsole.sourcelink.json
+D:\cs12dotnet8\code\Chapter07\AotConsole\obj\Debug\net8.0\AotConsole.dll
+D:\cs12dotnet8\code\Chapter07\AotConsole\obj\Debug\net8.0\refint\AotConsole.dll
+D:\cs12dotnet8\code\Chapter07\AotConsole\obj\Debug\net8.0\AotConsole.pdb
+D:\cs12dotnet8\code\Chapter07\AotConsole\obj\Debug\net8.0\AotConsole.genruntimeconfig.cache
+D:\cs12dotnet8\code\Chapter07\AotConsole\obj\Debug\net8.0\ref\AotConsole.dll

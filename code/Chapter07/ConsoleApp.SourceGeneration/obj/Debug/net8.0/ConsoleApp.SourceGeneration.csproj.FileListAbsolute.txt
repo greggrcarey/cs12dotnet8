@@ -1,0 +1,15 @@
+D:\cs12dotnet8\code\Chapter07\ConsoleApp.SourceGeneration\bin\Debug\net8.0\ConsoleApp.SourceGeneration.exe
+D:\cs12dotnet8\code\Chapter07\ConsoleApp.SourceGeneration\bin\Debug\net8.0\ConsoleApp.SourceGeneration.deps.json
+D:\cs12dotnet8\code\Chapter07\ConsoleApp.SourceGeneration\bin\Debug\net8.0\ConsoleApp.SourceGeneration.runtimeconfig.json
+D:\cs12dotnet8\code\Chapter07\ConsoleApp.SourceGeneration\bin\Debug\net8.0\ConsoleApp.SourceGeneration.dll
+D:\cs12dotnet8\code\Chapter07\ConsoleApp.SourceGeneration\bin\Debug\net8.0\ConsoleApp.SourceGeneration.pdb
+D:\cs12dotnet8\code\Chapter07\ConsoleApp.SourceGeneration\obj\Debug\net8.0\ConsoleApp.SourceGeneration.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs12dotnet8\code\Chapter07\ConsoleApp.SourceGeneration\obj\Debug\net8.0\ConsoleApp.SourceGeneration.AssemblyInfoInputs.cache
+D:\cs12dotnet8\code\Chapter07\ConsoleApp.SourceGeneration\obj\Debug\net8.0\ConsoleApp.SourceGeneration.AssemblyInfo.cs
+D:\cs12dotnet8\code\Chapter07\ConsoleApp.SourceGeneration\obj\Debug\net8.0\ConsoleApp.SourceGeneration.csproj.CoreCompileInputs.cache
+D:\cs12dotnet8\code\Chapter07\ConsoleApp.SourceGeneration\obj\Debug\net8.0\ConsoleApp.SourceGeneration.sourcelink.json
+D:\cs12dotnet8\code\Chapter07\ConsoleApp.SourceGeneration\obj\Debug\net8.0\ConsoleApp.SourceGeneration.dll
+D:\cs12dotnet8\code\Chapter07\ConsoleApp.SourceGeneration\obj\Debug\net8.0\refint\ConsoleApp.SourceGeneration.dll
+D:\cs12dotnet8\code\Chapter07\ConsoleApp.SourceGeneration\obj\Debug\net8.0\ConsoleApp.SourceGeneration.pdb
+D:\cs12dotnet8\code\Chapter07\ConsoleApp.SourceGeneration\obj\Debug\net8.0\ConsoleApp.SourceGeneration.genruntimeconfig.cache
+D:\cs12dotnet8\code\Chapter07\ConsoleApp.SourceGeneration\obj\Debug\net8.0\ref\ConsoleApp.SourceGeneration.dll

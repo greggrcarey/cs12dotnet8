@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\cs12dotnet8\\my_code\\Chapter06\\PacktLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6A1D73-504E-41BC-8257-E1F7349EC334}|..\\PeopleApp\\PeopleApp.csproj|d:\\cs12dotnet8\\my_code\\chapter06\\peopleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA4F978-0F5C-4744-99C7-2658478A59C4}|PacktLibrary.csproj|d:\\cs12dotnet8\\my_code\\chapter06\\packtlibrary\\mutability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA4F978-0F5C-4744-99C7-2658478A59C4}|PacktLibrary.csproj|solutionrelative:mutability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\cs12dotnet8\\my_code\\Chapter06\\PeopleApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\PeopleApp\\Program.cs",
+              "ToolTip": "D:\\cs12dotnet8\\my_code\\Chapter06\\PeopleApp\\Program.cs",
+              "RelativeToolTip": "..\\PeopleApp\\Program.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAFwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T21:08:42.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mutability.cs",
+              "DocumentMoniker": "D:\\cs12dotnet8\\my_code\\Chapter06\\PacktLibrary\\Mutability.cs",
+              "RelativeDocumentMoniker": "Mutability.cs",
+              "ToolTip": "D:\\cs12dotnet8\\my_code\\Chapter06\\PacktLibrary\\Mutability.cs",
+              "RelativeToolTip": "Mutability.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T21:06:34.371Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
