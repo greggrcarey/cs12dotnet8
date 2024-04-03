@@ -265,4 +265,27 @@ partial class Program
         //page 583
     }
 
+    private static void LazyLoadingWithNoTracking()
+    {
+        using NorthwindDb db = new();
+
+        SectionTitle("Lazy-loading with no tracking");
+
+        IQueryable<Product>? products = db.Products?.AsNoTracking();
+
+        if(products is null || !products.Any())
+        {
+            Fail("No products found");
+            return;
+        }
+
+        foreach(Product p in products)
+        {
+            WriteLine($"""
+                {p.ProductName} is in category named {p.Category.CategoryName}
+
+                """);
+        }
+    }
+
 }

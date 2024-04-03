@@ -18,6 +18,8 @@ public class Product
     public short? Stock { get; set; }
     public bool Discontinued { get; set; }
     public int CategoryId { get; set; }
+    public int SupplierId { get; set; }
     public virtual Category Category { get; set; } = null!;
+    public virtual Supplier Supplier { get; set; } = null!;
 }
 

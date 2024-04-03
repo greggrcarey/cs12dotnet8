@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "D:\\cs12dotnet8\\my_code\\Chapter10\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{47D67F21-6B59-4818-B535-EC734088C85C}|WorkingWithEFCore\\WorkingWithEFCore.csproj|d:\\cs12dotnet8\\my_code\\chapter10\\workingwithefcore\\programqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47D67F21-6B59-4818-B535-EC734088C85C}|WorkingWithEFCore\\WorkingWithEFCore.csproj|solutionrelative:workingwithefcore\\programqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47D67F21-6B59-4818-B535-EC734088C85C}|WorkingWithEFCore\\WorkingWithEFCore.csproj|d:\\cs12dotnet8\\my_code\\chapter10\\workingwithefcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47D67F21-6B59-4818-B535-EC734088C85C}|WorkingWithEFCore\\WorkingWithEFCore.csproj|solutionrelative:workingwithefcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{47D67F21-6B59-4818-B535-EC734088C85C}|WorkingWithEFCore\\WorkingWithEFCore.csproj|d:\\cs12dotnet8\\my_code\\chapter10\\workingwithefcore\\program.modifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D67F21-6B59-4818-B535-EC734088C85C}|WorkingWithEFCore\\WorkingWithEFCore.csproj|solutionrelative:workingwithefcore\\program.modifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{47D67F21-6B59-4818-B535-EC734088C85C}|WorkingWithEFCore\\WorkingWithEFCore.csproj|d:\\cs12dotnet8\\my_code\\chapter10\\workingwithefcore\\northwinddb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47D67F21-6B59-4818-B535-EC734088C85C}|WorkingWithEFCore\\WorkingWithEFCore.csproj|solutionrelative:workingwithefcore\\northwinddb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47D67F21-6B59-4818-B535-EC734088C85C}|WorkingWithEFCore\\WorkingWithEFCore.csproj|d:\\cs12dotnet8\\my_code\\chapter10\\workingwithefcore\\workingwithefcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{47D67F21-6B59-4818-B535-EC734088C85C}|WorkingWithEFCore\\WorkingWithEFCore.csproj|solutionrelative:workingwithefcore\\workingwithefcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{AE766CD8-0A41-4A79-8557-960FF99FAF18}|Northwind.EntityModels\\Northwind.EntityModels.csproj|d:\\cs12dotnet8\\my_code\\chapter10\\northwind.entitymodels\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE766CD8-0A41-4A79-8557-960FF99FAF18}|Northwind.EntityModels\\Northwind.EntityModels.csproj|solutionrelative:northwind.entitymodels\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47D67F21-6B59-4818-B535-EC734088C85C}|WorkingWithEFCore\\WorkingWithEFCore.csproj|d:\\cs12dotnet8\\my_code\\chapter10\\workingwithefcore\\program.helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47D67F21-6B59-4818-B535-EC734088C85C}|WorkingWithEFCore\\WorkingWithEFCore.csproj|solutionrelative:workingwithefcore\\program.helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{47D67F21-6B59-4818-B535-EC734088C85C}|WorkingWithEFCore\\WorkingWithEFCore.csproj|d:\\cs12dotnet8\\my_code\\chapter10\\workingwithefcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D67F21-6B59-4818-B535-EC734088C85C}|WorkingWithEFCore\\WorkingWithEFCore.csproj|solutionrelative:workingwithefcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE766CD8-0A41-4A79-8557-960FF99FAF18}|Northwind.EntityModels\\Northwind.EntityModels.csproj|d:\\cs12dotnet8\\my_code\\chapter10\\northwind.entitymodels\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE766CD8-0A41-4A79-8557-960FF99FAF18}|Northwind.EntityModels\\Northwind.EntityModels.csproj|solutionrelative:northwind.entitymodels\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,75 +30,79 @@
       "DocumentGroups": [
         {
           "DockedWidth": 233,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WorkingWithEFCore",
-              "DocumentMoniker": "D:\\cs12dotnet8\\my_code\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore.csproj",
-              "RelativeDocumentMoniker": "WorkingWithEFCore\\WorkingWithEFCore.csproj",
-              "ToolTip": "D:\\cs12dotnet8\\my_code\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore.csproj",
-              "RelativeToolTip": "WorkingWithEFCore\\WorkingWithEFCore.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-01T18:31:28.342Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NorthwindDb.cs",
-              "DocumentMoniker": "D:\\cs12dotnet8\\my_code\\Chapter10\\WorkingWithEFCore\\NorthwindDb.cs",
-              "RelativeDocumentMoniker": "WorkingWithEFCore\\NorthwindDb.cs",
-              "ToolTip": "D:\\cs12dotnet8\\my_code\\Chapter10\\WorkingWithEFCore\\NorthwindDb.cs",
-              "RelativeToolTip": "WorkingWithEFCore\\NorthwindDb.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAA4wBsAAABWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T14:18:48.793Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProgramQueries.cs",
-              "DocumentMoniker": "D:\\cs12dotnet8\\my_code\\Chapter10\\WorkingWithEFCore\\ProgramQueries.cs",
-              "RelativeDocumentMoniker": "WorkingWithEFCore\\ProgramQueries.cs",
-              "ToolTip": "D:\\cs12dotnet8\\my_code\\Chapter10\\WorkingWithEFCore\\ProgramQueries.cs",
-              "RelativeToolTip": "WorkingWithEFCore\\ProgramQueries.cs",
-              "ViewState": "AQIAAPUAAAAAAAAAAAAMwAgBAAASAAAA",
+              "Title": "Program.Modifications.cs",
+              "DocumentMoniker": "D:\\cs12dotnet8\\my_code\\Chapter10\\WorkingWithEFCore\\Program.Modifications.cs",
+              "RelativeDocumentMoniker": "WorkingWithEFCore\\Program.Modifications.cs",
+              "ToolTip": "D:\\cs12dotnet8\\my_code\\Chapter10\\WorkingWithEFCore\\Program.Modifications.cs",
+              "RelativeToolTip": "WorkingWithEFCore\\Program.Modifications.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T15:24:53.696Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.Helpers.cs",
-              "DocumentMoniker": "D:\\cs12dotnet8\\my_code\\Chapter10\\WorkingWithEFCore\\Program.Helpers.cs",
-              "RelativeDocumentMoniker": "WorkingWithEFCore\\Program.Helpers.cs",
-              "ToolTip": "D:\\cs12dotnet8\\my_code\\Chapter10\\WorkingWithEFCore\\Program.Helpers.cs",
-              "RelativeToolTip": "WorkingWithEFCore\\Program.Helpers.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBMAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T14:58:36.922Z",
+              "WhenOpened": "2024-04-03T14:31:28.804Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "NorthwindDb.cs",
+              "DocumentMoniker": "D:\\cs12dotnet8\\my_code\\Chapter10\\WorkingWithEFCore\\NorthwindDb.cs",
+              "RelativeDocumentMoniker": "WorkingWithEFCore\\NorthwindDb.cs",
+              "ToolTip": "D:\\cs12dotnet8\\my_code\\Chapter10\\WorkingWithEFCore\\NorthwindDb.cs",
+              "RelativeToolTip": "WorkingWithEFCore\\NorthwindDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T14:05:10.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\cs12dotnet8\\my_code\\Chapter10\\WorkingWithEFCore\\Program.cs",
               "RelativeDocumentMoniker": "WorkingWithEFCore\\Program.cs",
               "ToolTip": "D:\\cs12dotnet8\\my_code\\Chapter10\\WorkingWithEFCore\\Program.cs",
               "RelativeToolTip": "WorkingWithEFCore\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAdAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T20:16:35.741Z",
+              "WhenOpened": "2024-04-03T13:51:30.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "D:\\cs12dotnet8\\my_code\\Chapter10\\Northwind.EntityModels\\Supplier.cs",
+              "RelativeDocumentMoniker": "Northwind.EntityModels\\Supplier.cs",
+              "ToolTip": "D:\\cs12dotnet8\\my_code\\Chapter10\\Northwind.EntityModels\\Supplier.cs",
+              "RelativeToolTip": "Northwind.EntityModels\\Supplier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T13:37:17.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\cs12dotnet8\\my_code\\Chapter10\\Northwind.EntityModels\\Product.cs",
+              "RelativeDocumentMoniker": "Northwind.EntityModels\\Product.cs",
+              "ToolTip": "D:\\cs12dotnet8\\my_code\\Chapter10\\Northwind.EntityModels\\Product.cs",
+              "RelativeToolTip": "Northwind.EntityModels\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T13:36:12.002Z",
               "EditorCaption": ""
             }
           ]
