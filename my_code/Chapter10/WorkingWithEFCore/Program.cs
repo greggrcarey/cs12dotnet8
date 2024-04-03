@@ -17,7 +17,7 @@
 //QueryingCategoriesWithExplicitLoading();
 //LazyLoadingWithNoTracking();
 
-ListProducts();
+//ListProducts();
 
 //var resultAdd = AddProduct(categoryId: 6, productName: "Bob's Burgers", price: 500M, stock: 72);
 
@@ -37,5 +37,13 @@ ListProducts();
 
 //ListProducts(productsToHighlight: [productId]);
 
+
+var resultUpdateBetter = IncreaseProductPricesBetter(productNameStartsWith: "Bob", amount: 20M);
+
+if (resultUpdateBetter.affected > 0)
+{
+    WriteLine("Increase product price successful.");
+}
+ListProducts(productsToHighlight: resultUpdateBetter.productIds);
 
 //page 594

@@ -1,6 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore; //ExecuteUpdate, ExecuteDelete
 using Microsoft.EntityFrameworkCore.ChangeTracking; //EntityEntry<T>
 using Northwind.EntityModels;
+using System.Diagnostics.CodeAnalysis;
 using System.Reflection.Metadata.Ecma335; //Northwind, Product
 partial class Program
 {
@@ -44,7 +45,8 @@ partial class Program
             CategoryId = categoryId,
             ProductName = productName,
             Cost = price,
-            Stock = stock
+            Stock = stock,
+            SupplierId = 2
         };
         
         EntityEntry<Product> entity = db.Products.Add(newProduct);
@@ -94,5 +96,31 @@ partial class Program
 
         int affected = db.SaveChanges();
         return affected;
+    }
+
+    private static (int affected, int[]? productIds) IncreaseProductPricesBetter(string productNameStartsWith, decimal amount) 
+    {
+        using NorthwindDb db = new();
+
+        if (db.Products is null) return (0, null);
+
+        IQueryable<Product>? products = db.Products
+            .Where(p => p.ProductName.StartsWith(productNameStartsWith));
+
+        //if( products is null || !products.Any())
+        //{
+        //    Fail($"No Product starting with \"{productNameStartsWith}\" found");
+        //    return(0, null);
+        //}
+
+        int affected = products.ExecuteUpdate(s => s.SetProperty(
+            p => p.Cost, //Property selector Lambda expression
+            p => p.Cost + amount //Value to update lambda expression
+            ));
+
+        int[] productIds = [.. products.Select(p => p.ProductId)];
+
+        return(affected, productIds);
+
     }
 }
