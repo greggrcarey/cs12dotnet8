@@ -3,9 +3,9 @@ using Microsoft.EntityFrameworkCore.ChangeTracking; //EntityEntry<T>
 using Northwind.EntityModels;
 using System.Diagnostics.CodeAnalysis;
 using System.Reflection.Metadata.Ecma335; //Northwind, Product
+using Microsoft.EntityFrameworkCore.Storage; //IDBContextTransaction
 partial class Program
 {
-
     private static void ListProducts(int[]? productsToHighlight = null)
     {
         using NorthwindDb db = new();
@@ -79,11 +79,14 @@ partial class Program
     private static int DeleteProducts(string productNameStartsWith)
     {
         using NorthwindDb db = new();
+        using IDbContextTransaction t = db.Database.BeginTransaction();
+
+        WriteLine($"Transaction isolation level: {t.GetDbTransaction().IsolationLevel}");
 
         IQueryable<Product>? products = db.Products?
             .Where(p => p.ProductName.StartsWith(productNameStartsWith));
 
-        if(products is null || !products.Any())
+        if (products is null || !products.Any())
         {
             WriteLine("No products found to delete.");
             return 0;
@@ -95,6 +98,7 @@ partial class Program
         }
 
         int affected = db.SaveChanges();
+        t.Commit();
         return affected;
     }
 
@@ -123,4 +127,6 @@ partial class Program
         return(affected, productIds);
 
     }
+
+
 }

@@ -1,4 +1,5 @@
-﻿using Northwind.EntityModels;
+﻿using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
+using Northwind.EntityModels;
 
 //using NorthwindDb db = new();
 //WriteLine($"Provider: {db.Database.ProviderName}");
@@ -19,14 +20,14 @@
 
 //ListProducts();
 
-//var resultAdd = AddProduct(categoryId: 6, productName: "Bob's Burgers", price: 500M, stock: 72);
+//var (affected, productId) = AddProduct(categoryId: 6, productName: "Bob's Burgers", price: 500M, stock: 72);
 
-//if (resultAdd.affected == 1)
+//if (affected == 1)
 //{
-//    WriteLine($"Add product succesful with ID: {resultAdd.productId}");
+//    WriteLine($"Add product succesful with ID: {productId}");
 //}
 
-//ListProducts(productsToHighlight: [resultAdd.productId]);
+//ListProducts(productsToHighlight: [affected]);
 
 //var (affected, productId) = IncreasePrice(productStartsWith: "Bob", amount: 20M);
 
@@ -38,12 +39,24 @@
 //ListProducts(productsToHighlight: [productId]);
 
 
-var resultUpdateBetter = IncreaseProductPricesBetter(productNameStartsWith: "Bob", amount: 20M);
+//var resultUpdateBetter = IncreaseProductPricesBetter(productNameStartsWith: "Bob", amount: 20M);
 
-if (resultUpdateBetter.affected > 0)
+//if (resultUpdateBetter.affected > 0)
+//{
+//    WriteLine("Increase product price successful.");
+//}
+//ListProducts(productsToHighlight: resultUpdateBetter.productIds);
+
+int recordsAffected = DeleteProducts("Bob");
+
+if (recordsAffected > 0)
 {
-    WriteLine("Increase product price successful.");
+    string word = recordsAffected > 1 ? "Products" : "Product";
+    WriteLine($"{recordsAffected} {word} deleted");
 }
-ListProducts(productsToHighlight: resultUpdateBetter.productIds);
+else
+{
+    WriteLine("No product found to delete");
+}
 
-//page 594
+//page 599
