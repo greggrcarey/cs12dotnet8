@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\cs12dotnet8\\my_code\\Chapter11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F2EA8A6-7EF0-4266-9B29-907499CAE45E}|LinqWithObjects\\LinqWithObjects.csproj|d:\\cs12dotnet8\\my_code\\chapter11\\linqwithobjects\\program.functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F2EA8A6-7EF0-4266-9B29-907499CAE45E}|LinqWithObjects\\LinqWithObjects.csproj|solutionrelative:linqwithobjects\\program.functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F2EA8A6-7EF0-4266-9B29-907499CAE45E}|LinqWithObjects\\LinqWithObjects.csproj|d:\\cs12dotnet8\\my_code\\chapter11\\linqwithobjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F2EA8A6-7EF0-4266-9B29-907499CAE45E}|LinqWithObjects\\LinqWithObjects.csproj|solutionrelative:linqwithobjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F2EA8A6-7EF0-4266-9B29-907499CAE45E}|LinqWithObjects\\LinqWithObjects.csproj|d:\\cs12dotnet8\\my_code\\chapter11\\linqwithobjects\\program.helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F2EA8A6-7EF0-4266-9B29-907499CAE45E}|LinqWithObjects\\LinqWithObjects.csproj|solutionrelative:linqwithobjects\\program.helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 233,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.Functions.cs",
+              "DocumentMoniker": "D:\\cs12dotnet8\\my_code\\Chapter11\\LinqWithObjects\\Program.Functions.cs",
+              "RelativeDocumentMoniker": "LinqWithObjects\\Program.Functions.cs",
+              "ToolTip": "D:\\cs12dotnet8\\my_code\\Chapter11\\LinqWithObjects\\Program.Functions.cs",
+              "RelativeToolTip": "LinqWithObjects\\Program.Functions.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAmwEwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T14:50:00.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.Helpers.cs",
+              "DocumentMoniker": "D:\\cs12dotnet8\\my_code\\Chapter11\\LinqWithObjects\\Program.Helpers.cs",
+              "RelativeDocumentMoniker": "LinqWithObjects\\Program.Helpers.cs",
+              "ToolTip": "D:\\cs12dotnet8\\my_code\\Chapter11\\LinqWithObjects\\Program.Helpers.cs",
+              "RelativeToolTip": "LinqWithObjects\\Program.Helpers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T14:48:11.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\cs12dotnet8\\my_code\\Chapter11\\LinqWithObjects\\Program.cs",
+              "RelativeDocumentMoniker": "LinqWithObjects\\Program.cs",
+              "ToolTip": "D:\\cs12dotnet8\\my_code\\Chapter11\\LinqWithObjects\\Program.cs",
+              "RelativeToolTip": "LinqWithObjects\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T14:41:02.778Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

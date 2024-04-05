@@ -47,12 +47,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "WorkingWithEFCore",
+              "Title": "WorkingWithEFCore.csproj",
               "DocumentMoniker": "D:\\cs12dotnet8\\my_code\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore.csproj",
               "RelativeDocumentMoniker": "WorkingWithEFCore\\WorkingWithEFCore.csproj",
               "ToolTip": "D:\\cs12dotnet8\\my_code\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore.csproj",
               "RelativeToolTip": "WorkingWithEFCore\\WorkingWithEFCore.csproj",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAUwCUAAAAAAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAUwB8AAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-04-04T19:25:35.043Z",
               "EditorCaption": ""
@@ -79,8 +79,7 @@
               "RelativeToolTip": "WorkingWithEFCore\\Program.Modifications.cs",
               "ViewState": "AQIAAHIAAAAAAAAAAAAowFAAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T14:42:42.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-03T14:42:42.724Z"
             },
             {
               "$type": "Document",
@@ -116,8 +115,7 @@
               "RelativeToolTip": "WorkingWithEFCore\\Program.cs",
               "ViewState": "AQIAACQAAAAAAAAAAAAkwDQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T13:51:30.785Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-03T13:51:30.785Z"
             }
           ]
         }
