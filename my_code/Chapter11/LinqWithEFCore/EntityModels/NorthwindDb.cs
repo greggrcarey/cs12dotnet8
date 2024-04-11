@@ -13,14 +13,15 @@ public class NorthwindDb : DbContext
 
         #region To use SqlLite
 
-        string database = "Nortwind.db";
+        string database = "Northwind.db";
         string dir = Environment.CurrentDirectory;
         string path;
 
         if (dir.EndsWith("net8.0"))
         {
             // Running in the <project>\bin\<Debug|Release>\net8.0 directory.
-            path = Path.Combine("..", "..", "..", database);
+            // D:\cs12dotnet8\my_code\Chapter11\LinqWithEFCore
+            path = Path.Combine(database);
         }else
         {
             path = database;

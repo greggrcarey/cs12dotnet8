@@ -5,6 +5,7 @@ namespace Northwind.EntityModels;
 
 public class Product
 {
+    public int ProductId { get; set; }
     [Required]
     [StringLength(40)]
     public string ProductName { get; set; } = null!;

@@ -16,4 +16,10 @@
 		<Using Include="System.Console" Static="true" />
 	</ItemGroup>
 
+	<ItemGroup>
+	  <None Update="Northwind.db">
+	    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+	  </None>
+	</ItemGroup>
+
 </Project>
